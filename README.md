@@ -41,7 +41,15 @@ https://www.youtube.com/watch?v=N7vY3cPSo8g&list=PLhW3qG5bs-L8npSSZD6aWdYFQ96OEd
 Set capacity like 
 
 
-
+	public static void testLogin() {
+		DesiredCapabilities cap = new DesiredCapabilities();
+		cap.setCapability("deviceName", "OPPO A15");
+		cap.setCapability("udid", "8DIJRW5PZPGY5TRK");
+		cap.setCapability("platformName", "Android");
+		cap.setCapability("platformVersion", "10");
+		cap.setCapability("appPackage", "com.daraz.dflex.dev");
+		cap.setCapability("appActivity", "com.daraz.dflex.presentation.splash.SplashActivity");
+		cap.setCapability("ignoreHiddenApiPolicyError", true);
 
 
 
