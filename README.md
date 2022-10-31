@@ -1,8 +1,22 @@
 # Daraz_flexDev_login_module_automation
 
-1. Install Android Studio
-2. Install Java
-3. Install home brew
+1. Install Java
+2. Install home brew
+3. Install Android Studio
+4. Install IntelliJ IDEA
+5. Download Appium https://appium.io/
+6. Open Appium and click "START SERVER'
+7. After thatserver is running
+<img width="647" alt="Screen Shot 2022-10-31 at 12 52 24 PM" src="https://user-images.githubusercontent.com/32488952/198948767-3bbb1da6-a2a6-488d-802a-f4c3d254527a.png">
+8. Click on search button, it will redirect into https://github.com/appium/appium-inspector page.
+<img width="654" alt="Screen Shot 2022-10-31 at 12 53 23 PM" src="https://user-images.githubusercontent.com/32488952/198948898-a9938831-ebab-4e28-850c-667268d8fcca.png">
+9. Go to instalation > release > 2022.9.1(latest one) > and download "Appium-Inspector-mac-2022.9.1.dmg" - https://github.com/appium/appium-inspector/releases/tag/v2022.9.1
+<img width="921" alt="Screen Shot 2022-10-31 at 12 54 52 PM" src="https://user-images.githubusercontent.com/32488952/198949126-89caff66-5eb6-472d-ad45-3c36f154a7af.png">
+
+CONNECT REAL ANDROID MOBILE DEVICE ON MAC
+
+
+
 
 Follow the video step by step
 
