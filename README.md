@@ -11,6 +11,7 @@
 8. Click on search button, it will redirect into https://github.com/appium/appium-inspector page.
 <img width="654" alt="Screen Shot 2022-10-31 at 12 53 23 PM" src="https://user-images.githubusercontent.com/32488952/198948898-a9938831-ebab-4e28-850c-667268d8fcca.png">
 9. Go to instalation > release > 2022.9.1(latest one) > and download "Appium-Inspector-mac-2022.9.1.dmg" - https://github.com/appium/appium-inspector/releases/tag/v2022.9.1
+
 <img width="921" alt="Screen Shot 2022-10-31 at 12 54 52 PM" src="https://user-images.githubusercontent.com/32488952/198949126-89caff66-5eb6-472d-ad45-3c36f154a7af.png">
 
 CONNECT REAL ANDROID MOBILE DEVICE ON MAC
