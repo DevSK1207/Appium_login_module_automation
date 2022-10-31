@@ -1,4 +1,4 @@
-# Daraz_flexDev_login_module_automation
+# Appium_login_module_automation
 
 1. Install Java
 2. Install home brew
@@ -87,26 +87,35 @@ Follow this github reppo - https://github.com/NibrazKhan/Amazon_Shopping_App_Aut
 
 
 
+
+
+
 Follow the video step by step
 
-5. https://www.youtube.com/watch?v=i1tQ1pjEFWw
-6. https://www.youtube.com/watch?v=YecsinHl88A
-7. https://www.youtube.com/watch?v=glPjT27xWpA
-8. https://www.youtube.com/watch?v=N7vY3cPSo8g
-9. https://www.youtube.com/watch?v=82KXSli1wPA
-
-10. https://github.com/NibrazKhan/Amazon_Shopping_App_Automation
-
-
-11. Connect real device for appium 
+Connect real device for appium 
 https://www.youtube.com/watch?v=BEF-d1xjV4Q&list=PLhW3qG5bs-L8npSSZD6aWdYFQ96OEduhk&index=6
 
 
 Setup APPIUM 
-1. https://www.youtube.com/watch?v=BEF-d1xjV4Q&list=PLhW3qG5bs-L8npSSZD6aWdYFQ96OEduhk&index=6
+1. Install Appium-> follow this tutoriaL- https://www.youtube.com/watch?v=BEF-d1xjV4Q&list=PLhW3qG5bs-L8npSSZD6aWdYFQ96OEduhk&index=6
+2. Install Android studio
+3. Set up environment in zsh file -
+nano ~/.zshrc
+Then add
+export ANDROID_HOME=/Users/appnapws54/Library/Android/sdk
+export PATH=$ANDROID_HOME/platform-tools:$PATH
+export PATH=$ANDROID_HOME/tools:$PATH
+export PATH=$ANDROID_HOME/tools/bin:$PATH
+After that run 
+
+
+─ source ~/.zshrc   
 
 
 For device configuration 
 https://www.youtube.com/watch?v=N7vY3cPSo8g&list=PLhW3qG5bs-L8npSSZD6aWdYFQ96OEduhk&index=8
+
+Set capacity like 
+
 
 
