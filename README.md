@@ -117,5 +117,17 @@ https://www.youtube.com/watch?v=N7vY3cPSo8g&list=PLhW3qG5bs-L8npSSZD6aWdYFQ96OEd
 
 Set capacity like 
 
+Fixed error - for OPP0
+I can't find Disable Permission Monitoring on my device Samsung A52
+
+I have the same error, with my phone (Realme C3), I solved with the following way: First Enable Developer Option second step enable USB Debugging And very important Step: Step 3. Search for "Disable Permission Monitoring" and Enable it.
+
+
+
+ 
+Stop appium server and execute below commands
+adb uninstall io.appium.uiautomator2.
+
+
 
 
