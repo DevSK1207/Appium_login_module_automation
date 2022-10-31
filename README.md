@@ -9,6 +9,7 @@
 7. After thatserver is running
 
 <img width="647" alt="Screen Shot 2022-10-31 at 12 52 24 PM" src="https://user-images.githubusercontent.com/32488952/198948767-3bbb1da6-a2a6-488d-802a-f4c3d254527a.png">
+
 8. Click on search button, it will redirect into https://github.com/appium/appium-inspector page.
 
 <img width="654" alt="Screen Shot 2022-10-31 at 12 53 23 PM" src="https://user-images.githubusercontent.com/32488952/198948898-a9938831-ebab-4e28-850c-667268d8fcca.png">
